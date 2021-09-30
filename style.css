@@ -1,0 +1,22 @@
+body {
+   background-color: darkgrey;   
+}
+h1{ color: aquamarine;  
+    text-align: center;
+    text-decoration-line: overline; 
+    }
+a:link{ 
+    color:aquamarine;
+}
+a:visited{
+    color:orange;
+}
+a:hover{
+    color:cadetblue;
+}
+a {
+    text-decoration-color: black;
+    text-decoration-line: line-through;
+    text-align: center;
+    font-size: 16
+}
